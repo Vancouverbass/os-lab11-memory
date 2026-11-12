@@ -38,5 +38,14 @@ VmStk:       132 kB
 ## Задание 6
 no swap
 ## Задание 7
+before
+Buffers:            4504 kB
+Cached:           195556 kB
+SReclaimable:      31856 kB
+
+after
+Buffers:            3496 kB
+Cached:           196156 kB
+SReclaimable:      32692 kB
 ## Задание 8
 ## Ответы на контрольные вопросы

@@ -13,6 +13,10 @@
   PID COMMAND            VSZ   RSS
    1647 bash              8832  5680
 ## Задание 3
+VmSize:     8832 kB
+VmRSS:      5684 kB
+VmData:     1764 kB
+VmStk:       132 kB
 ## Задание 4
 ## Задание 5
 ## Задание 6

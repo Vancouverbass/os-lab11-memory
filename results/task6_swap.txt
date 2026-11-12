@@ -1,0 +1,4 @@
+               total        used        free      shared  buff/cache   available
+Mem:           956Mi       664Mi        67Mi       5.0Mi       224Mi       144Mi
+Swap:             0B          0B          0B
+Filename				Type		Size		Used		Priority

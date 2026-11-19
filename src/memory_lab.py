@@ -1,7 +1,8 @@
 import os
 import time
 
-size_mb = 100 
+size_mb = 200
+
 print("PID:", os.getpid(), flush=True)
 print(f"Выделяю {size_mb} МиБ...", flush=True)
 data = bytearray(size_mb * 1024 * 1024)
